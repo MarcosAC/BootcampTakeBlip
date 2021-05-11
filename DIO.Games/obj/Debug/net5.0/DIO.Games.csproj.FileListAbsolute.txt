@@ -1,0 +1,16 @@
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.exe
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.deps.json
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.runtimeconfig.json
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.runtimeconfig.dev.json
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.dll
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\ref\DIO.Games.dll
+C:\projetos\BootcampTakeBlip\DIO.Games\bin\Debug\net5.0\DIO.Games.pdb
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.csprojAssemblyReference.cache
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.AssemblyInfoInputs.cache
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.AssemblyInfo.cs
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.csproj.CoreCompileInputs.cache
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.dll
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\ref\DIO.Games.dll
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.pdb
+C:\projetos\BootcampTakeBlip\DIO.Games\obj\Debug\net5.0\DIO.Games.genruntimeconfig.cache
